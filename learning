@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# go to root
+cd
+
+# server update & requesting apps install
